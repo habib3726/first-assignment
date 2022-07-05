@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+#help {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+
+}
+
+.hd-img {
+    background-image: url(image/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15%;
+
+}
+
+.hd-img p {
+    color: white;
+    text-align: center;
+}
+
+.now {
+    text-align: center;
+}
+
+.a1 {
+    background-color: tomato;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+}
