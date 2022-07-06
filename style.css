@@ -34,3 +34,35 @@ body {
     border-radius: 5px;
     color: white;
 }
+
+#h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.give {
+    text-align: center;
+}
+
+.box {
+    width: 100%;
+    height: 100%;
+    background-color: whitesmoke;
+    border: 1px solid white;
+    display: inline;
+    padding: 2%;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.tk {
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+}
+
+.tk1 {
+    border: 3px solid tomato;
+    color: tomato;
+    background-color: rgb(255, 219, 212);
+}
