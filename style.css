@@ -73,6 +73,7 @@ body {
 
 #other {
     text-align: center;
+    color: rgb(189, 189, 189);
 }
 
 .display-1 {
@@ -88,7 +89,7 @@ body {
     padding: 3%;
     width: 250px;
     height: 250px;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 
 .donate2 {
@@ -97,7 +98,7 @@ body {
     padding: 3%;
     width: 250px;
     height: 250px;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 
 .donate3 {
@@ -106,10 +107,10 @@ body {
     padding: 3%;
     width: 250px;
     height: 250px;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 
-#plan {
+.plan {
     font-size: 50px;
 }
 
@@ -123,4 +124,52 @@ footer {
 .humble {
     font-family: 'Lobster', cursive;
     color: tomato;
+}
+
+.food {
+    display: flex;
+    padding: 100px;
+
+}
+
+.on {
+    width: 50%;
+    padding-left: 120px;
+
+}
+
+.on img {
+    width: 90%;
+    border-radius: 6px;
+}
+
+.get {
+    text-align: center;
+    padding: 3%;
+}
+
+#input {
+    background-color: rgb(252, 227, 219);
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 4%;
+    border-radius: 5px;
+}
+
+input {
+    width: 35%;
+    padding: 10px 3px;
+    margin: 6px 0;
+    border-radius: 5px;
+    background-color: rgb(219, 219, 219);
+
+}
+
+button {
+    width: 20%;
+    padding: 10px 3px;
+    margin: -5px;
+    background-color: rgb(253, 93, 64);
+    color: white;
+    border-radius: 5px;
 }
